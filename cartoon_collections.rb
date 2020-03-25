@@ -13,7 +13,6 @@ def summon_captain_planet(array)
     cap = item.capitalize 
     cap << "!"
   }
-  
 end
 
 def long_planeteer_calls# code an argument here
